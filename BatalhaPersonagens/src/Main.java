@@ -6,6 +6,7 @@ void main() {
 //  System.out.println(mago.mostrarStatus());
 //  IO.println(mago.atacar(40, 10, 70));
 
+  IO.println("teste");
 
 //  menu
   Scanner sc = new Scanner(System.in);
