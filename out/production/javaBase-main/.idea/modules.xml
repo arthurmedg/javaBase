@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BatalhaPersonagens/BatalhaPersonagens.iml" filepath="$PROJECT_DIR$/BatalhaPersonagens/BatalhaPersonagens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Cinema/Cinema.iml" filepath="$PROJECT_DIR$/Cinema/Cinema.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Musica/Musica.iml" filepath="$PROJECT_DIR$/Musica/Musica.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OO/OO.iml" filepath="$PROJECT_DIR$/OO/OO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/heranca/heranca.iml" filepath="$PROJECT_DIR$/heranca/heranca.iml" />
+      <module fileurl="file://$PROJECT_DIR$/herancaAula02/herancaAula02.iml" filepath="$PROJECT_DIR$/herancaAula02/herancaAula02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/herancaAula02Ex/herancaAula02Ex.iml" filepath="$PROJECT_DIR$/herancaAula02Ex/herancaAula02Ex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaBase-main.iml" filepath="$PROJECT_DIR$/javaBase-main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/poo/poo.iml" filepath="$PROJECT_DIR$/poo/poo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rh/rh.iml" filepath="$PROJECT_DIR$/rh/rh.iml" />
+    </modules>
+  </component>
+</project>
